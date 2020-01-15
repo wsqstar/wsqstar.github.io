@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>日课20200115</title>
+      <link href="/2020/01/15/%E6%97%A5%E8%AF%BE20200115/"/>
+      <url>/2020/01/15/%E6%97%A5%E8%AF%BE20200115/</url>
+      
+        <content type="html"><![CDATA[<h1 id="小型日记"><a href="#小型日记" class="headerlink" title="小型日记"></a>小型日记</h1><p>今天有如下心得：</p><ol><li>邮寄东西一定要用箱子 面单一定要用胶带粘好</li><li>没有食欲建议食用 美食纪录片</li><li>学习有一大堆工具，重要是坚持。<ol><li>工具列表（可交互）<ol><li><a href="https://github.com/wsqstar/Learn-git" target="_blank" rel="noopener">GitHub</a></li><li><a href="https://leetcode-cn.com/explore/" target="_blank" rel="noopener">Leetcode</a></li><li><a href="https://xue.cn/" target="_blank" rel="noopener">Xue</a></li><li><a href="https://tianchi.aliyun.com/home/" target="_blank" rel="noopener">Tianchi</a></li><li><a href="https://notebooks.azure.com/Microsoft/projects/2018-Intro-Python" target="_blank" rel="noopener">Azure NoteBook</a> </li></ol></li><li>带学资源<ol><li><a href="https://github.com/Yixiaohan/show-me-the-code" target="_blank" rel="noopener">Python</a>  一点Python</li><li><a href="https://tianchi.aliyun.com/competition/entrance/231759/tab/174?spm=5176.12281976.0.0.43983d6cejwfEa" target="_blank" rel="noopener">Docker</a></li></ol></li></ol></li><li>目前进行的比赛：<ol><li>毕业设计</li><li><a href="https://tianchi.aliyun.com/competition/entrance/231767/introduction?spm=5176.12281949.1003.3.45c64c2aMcYfDk" target="_blank" rel="noopener">2020数字中国创新大赛—应用赛1：建筑智能普查</a> </li></ol></li></ol>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 日记 </tag>
+            
+            <tag> 资源 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>目前的域名以及服务</title>
+      <link href="/2020/01/09/%E7%9B%AE%E5%89%8D%E7%9A%84%E5%9F%9F%E5%90%8D%E4%BB%A5%E5%8F%8A%E6%9C%8D%E5%8A%A1/"/>
+      <url>/2020/01/09/%E7%9B%AE%E5%89%8D%E7%9A%84%E5%9F%9F%E5%90%8D%E4%BB%A5%E5%8F%8A%E6%9C%8D%E5%8A%A1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="目前的域名-服务"><a href="#目前的域名-服务" class="headerlink" title="目前的域名+服务"></a>目前的域名+服务</h1><ul><li>blog.1314.io 个人博客</li><li>qtech.top 个人国内网站 备案<ul><li>www. 测试主页</li><li>blog. wordpress博客 使用小白白的模板</li><li>hgt.doc. HGT学习小组的文档 部署在阿里云 OSS上</li><li>things 物料网站 放了一些资源文件</li></ul></li><li>xue.sd.cn <strong>没有备案，只可以用ali dns</strong><ul><li>gitbooks 地大</li></ul></li><li>还剩下几百个域名……</li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>helloWeb</title>
+      <link href="/2020/01/09/helloWeb/"/>
+      <url>/2020/01/09/helloWeb/</url>
+      
+        <content type="html"><![CDATA[<p>主要的操作有：</p><ul><li><p>新建文章</p><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new [layout] <span class="tag">&lt;<span class="name">title</span>&gt;</span> #新建文章</span><br><span class="line"><span class="comment">&lt;!--例如--&gt;</span></span><br><span class="line">$ hexo new post hello,hexo</span><br></pre></td></tr></table></figure></li><li><p>生成加部署</p></li></ul><figure class="highlight ruby"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo d -g</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2020/01/09/hello-world/"/>
+      <url>/2020/01/09/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
