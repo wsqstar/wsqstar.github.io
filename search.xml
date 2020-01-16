@@ -72,6 +72,25 @@
     
     
     <entry>
+      <title>hello,test</title>
+      <link href="/2020/01/09/hello-test/"/>
+      <url>/2020/01/09/hello-test/</url>
+      
+        <content type="html"><![CDATA[<h1 id="开始了"><a href="#开始了" class="headerlink" title="开始了"></a>开始了</h1><p>主要的操作有：</p><ul><li><p>新建文章</p><ul><li>```xml<br>$ hexo new [layout] <title> #新建文章<!--例如-->$ hexo new post hello,hexo<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">- 生成加部署</span><br><span class="line"></span><br><span class="line">  - &#96;&#96;&#96;ruby</span><br><span class="line">    $ hexo d -g</span><br></pre></td></tr></table></figure></li></ul></li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2020/01/09/hello-world/"/>
       <url>/2020/01/09/hello-world/</url>
