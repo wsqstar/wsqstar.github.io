@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>test</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/wsqstar/ResHosting@0.02/build/botui.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/wsqstar/ResHosting@0.02/build/botui-theme-default.css">
+</head>
+<body>
+  <div class="botui-app-container" id="me">
+    <bot-ui></bot-ui>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+  <script src="https://cdn.jsdelivr.net/gh/wsqstar/ResHosting@0.02/build/botui.js"></script>
+  <script>
+    var botui = new BotUI('me');
+
+
+    botui.message.bot({
+      delay: 200,
+      content: "Hi, there👋"
+    }).then(function() {
+      return botui.message.bot({
+        delay: 1000,
+        content: "这里是 寒甜同学 🍨"
+      })
+    }).then(function() {
+      return botui.message.bot({
+        delay: 1000,
+        content: "一个可爱的小孩子~"
+      })
+    }).then(function() {
+      return botui.action.button({
+        delay: 1500,
+        action: [{
+          text: "然后呢？ 😃",
+          value: "and"
+        },
+          {
+            text: "少废话！ 🙄",
+            value: "gg"
+          }]
+      })
+    }).then(function(res) {
+      if (res.value == "and") {
+        other()
+      }
+      if (res.value == "gg") {
+        return botui.message.bot({
+          delay: 1500,
+          content: "![告辞](https://cdn.jsdelivr.net/gh/wsqstar/ResHosting/img/Emoji-baibai.jpg)"
+        })
+      }
+    });
+
+    var other = function() {
+      botui.message.bot({
+        delay: 1500,
+        content: "😘"
+      }).then(function() {
+        return botui.message.bot({
+          delay: 1500,
+          content: "主修的信息工程专业，是个即将前往某保密科研院所的小可爱"
+        })
+      }).then(function() {
+        return botui.message.bot({
+          delay: 1500,
+          content: "略懂Vue，偶尔也折腾java，c++，Python"
+        })
+      }).then(function() {
+        return botui.message.bot({
+          delay: 1500,
+          content: "不过还是比较熟悉电子，会Maya，Rhino,是有单片机的小伙伴啊"
+        })
+      }).then(function() {
+        return botui.message.bot({
+          delay: 1500,
+          content: "喜欢折腾，热爱折腾，目前正在计算机图形学、计算机视觉方向探索中"
+        })
+      }).then(function() {
+        return botui.action.button({
+          delay: 1500,
+          action: [{
+            text: "为什么叫 寒甜同学 呢？ 🤔",
+            value: "next"
+          }]
+        })
+      }).then(function(res) {
+        return botui.message.bot({
+          delay: 1500,
+          content: "因为爱吃冰淇凌啊（笑）"
+        })
+      }).then(function() {
+        return botui.action.button({
+          delay: 1500,
+          action: [{
+            text: "域名有什么含意吗？(ง •_•)ง",
+            value: "next"
+          }]
+        })
+      }).then(function(res) {
+        return botui.message.bot({
+          delay: 1500,
+          content: "姓名简称哦，我觉得简单好记就买了"
+        })
+      }).then(function(res) {
+        return botui.message.bot({
+          delay: 1500,
+          content: "那么，仔细看看我的博客吧？❤"
+        })
+      });
+    };</script>
+
+
+</body>
+</html>
