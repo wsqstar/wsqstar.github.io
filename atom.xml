@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.1314.io/"/>
-  <updated>2020-02-17T08:56:18.270Z</updated>
+  <updated>2020-06-19T16:04:25.583Z</updated>
   <id>https://blog.1314.io/</id>
   
   <author>
@@ -17,11 +17,61 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>新的规划</title>
+    <link href="https://blog.1314.io/2020/06/19/%E6%96%B0%E7%9A%84%E8%A7%84%E5%88%92/"/>
+    <id>https://blog.1314.io/2020/06/19/%E6%96%B0%E7%9A%84%E8%A7%84%E5%88%92/</id>
+    <published>2020-06-19T15:51:22.000Z</published>
+    <updated>2020-06-19T16:04:25.583Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="吐槽"><a href="#吐槽" class="headerlink" title="吐槽"></a>吐槽</h1><p>其实还是hexo更加方便简洁，WP什么的如果网络不好或者服务器太差根本进不去。配置hook的话也是有点麻烦。似乎有一键同步多个平台的神器，但是感觉掌控权不是自己的还是有点不放心。<br>于是希望以后自己做好备份，关于backup分支的设立迫在眉睫。<br>以后不做双线部署了，首先目前访问压力不大，没有对GitHub的愧疚之心。其次coding pages 会因为双线部署而无法自动配置SSL，每个月都要来一次的事情感觉还是有点讨厌的。</p><h1 id="规划"><a href="#规划" class="headerlink" title="规划"></a>规划</h1><p>由于自身掌控的域名不少，为了减少管理的压力，这个还是留着。这样的话常用的五个域名也比较经济。<br>本博客作为技术博客的定位依旧存在。之后会逐渐完善部分功能。</p><h2 id="主要方向"><a href="#主要方向" class="headerlink" title="主要方向"></a>主要方向</h2><ol><li>gis 毕竟是学了四年</li><li>计算机图形学 这个是gis的基础</li><li>数据处理 毕竟玩了好几年</li><li>深度学习 毕竟还做过科研立项</li><li>硬件方面 树莓派买了这么久，总是拿来跑网络程序有点过不去。</li><li>前端学习 前端什么的超级好玩又酷炫啦</li><li>还有其他的 就先等等啦 leetcode题解也会按时交作业的</li></ol><h2 id="写文流程"><a href="#写文流程" class="headerlink" title="写文流程"></a>写文流程</h2><p>首先在语雀上打草稿吧，毕竟省心省力，然后导出到本地，发到hexo上（本站），如果觉得好的就发CSDN。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;吐槽&quot;&gt;&lt;a href=&quot;#吐槽&quot; class=&quot;headerlink&quot; title=&quot;吐槽&quot;&gt;&lt;/a&gt;吐槽&lt;/h1&gt;&lt;p&gt;其实还是hexo更加方便简洁，WP什么的如果网络不好或者服务器太差根本进不去。配置hook的话也是有点麻烦。似乎有一键同步多个平台的神器，但
+      
+    
+    </summary>
+    
+    
+    
+      <category term="学习" scheme="https://blog.1314.io/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="生活" scheme="https://blog.1314.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+      <category term="规划" scheme="https://blog.1314.io/tags/%E8%A7%84%E5%88%92/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://blog.1314.io/2020/06/16/hello-world/"/>
+    <id>https://blog.1314.io/2020/06/16/hello-world/</id>
+    <published>2020-06-16T07:55:02.123Z</published>
+    <updated>2020-01-09T01:41:13.240Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>更新说明 20200217</title>
     <link href="https://blog.1314.io/2020/02/17/%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E-20200217/"/>
     <id>https://blog.1314.io/2020/02/17/%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E-20200217/</id>
     <published>2020-02-17T08:51:47.000Z</published>
-    <updated>2020-02-17T08:56:18.270Z</updated>
+    <updated>2020-02-17T09:28:42.147Z</updated>
     
     <content type="html"><![CDATA[<p>[TOC]</p><h2 id="20200217"><a href="#20200217" class="headerlink" title="20200217"></a>20200217</h2><h3 id="情况说明"><a href="#情况说明" class="headerlink" title="情况说明"></a>情况说明</h3><p>毕业季来了。</p><h3 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h3><p>最近会专注毕业设计的编写。<br>看到从自己的主题博客站那里交的朋友走上了正轨，感觉还很开心的。博客站就暂时不发了，使用的虚拟人物，主题还花里胡哨的。主题博客站以后要专注主题，SEO优化等。<br>以后本站只发技术文章、日课。</p>]]></content>
     
@@ -198,9 +248,9 @@
     
     
     
-      <category term="Github" scheme="https://blog.1314.io/tags/Github/"/>
-    
       <category term="BLOG" scheme="https://blog.1314.io/tags/BLOG/"/>
+    
+      <category term="Github" scheme="https://blog.1314.io/tags/Github/"/>
     
   </entry>
   
@@ -285,9 +335,9 @@
     
     
     
-      <category term="家庭" scheme="https://blog.1314.io/tags/%E5%AE%B6%E5%BA%AD/"/>
-    
       <category term="生活" scheme="https://blog.1314.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+      <category term="家庭" scheme="https://blog.1314.io/tags/%E5%AE%B6%E5%BA%AD/"/>
     
   </entry>
   
@@ -394,28 +444,6 @@
     
     
       <category term="学习" scheme="https://blog.1314.io/tags/%E5%AD%A6%E4%B9%A0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://blog.1314.io/2020/01/09/hello-world/"/>
-    <id>https://blog.1314.io/2020/01/09/hello-world/</id>
-    <published>2020-01-09T01:41:13.239Z</published>
-    <updated>2020-01-09T01:41:13.240Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
-    
     
   </entry>
   
