@@ -309,9 +309,9 @@
     
     
     
-      <category term="生活" scheme="https://blog.1314.io/tags/%E7%94%9F%E6%B4%BB/"/>
-    
       <category term="BLOG" scheme="https://blog.1314.io/tags/BLOG/"/>
+    
+      <category term="生活" scheme="https://blog.1314.io/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
@@ -368,9 +368,9 @@
     
     
     
-      <category term="家庭" scheme="https://blog.1314.io/tags/%E5%AE%B6%E5%BA%AD/"/>
-    
       <category term="生活" scheme="https://blog.1314.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+      <category term="家庭" scheme="https://blog.1314.io/tags/%E5%AE%B6%E5%BA%AD/"/>
     
   </entry>
   
