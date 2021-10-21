@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>群记录20211021</title>
+      <link href="/2021/10/21/%E7%BE%A4%E8%AE%B0%E5%BD%9520211021/"/>
+      <url>/2021/10/21/%E7%BE%A4%E8%AE%B0%E5%BD%9520211021/</url>
+      
+        <content type="html"><![CDATA[<p>跨平台程序不要与系统api高度耦合 如果有一个功能需要系统提供 就是用宏控制在不同平台上的运行 最好使用std标准库以及稳定的boost版本以及跨平台的第三方库 在跨平台时使用cmake作为项目组织工具</p><p>使用cmake组织项目 在linux windows都可以使用cmake管理和编译</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> cmake </tag>
+            
+            <tag> Dev </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>重新开始</title>
       <link href="/2021/10/18/%E9%87%8D%E6%96%B0%E5%BC%80%E5%A7%8B/"/>
       <url>/2021/10/18/%E9%87%8D%E6%96%B0%E5%BC%80%E5%A7%8B/</url>
@@ -94,7 +115,7 @@
       <link href="/2020/02/12/%E6%97%A5%E8%AF%BE20200212/"/>
       <url>/2020/02/12/%E6%97%A5%E8%AF%BE20200212/</url>
       
-        <content type="html"><![CDATA[<h1 id="关于网络"><a href="#关于网络" class="headerlink" title="关于网络"></a>关于网络</h1><p>​    今天开始努力学习了。<br>​    看到了一个不错的去中心化讨论社区 <a href="https://m.cmx.im/">https://m.cmx.im/</a> 长毛象。我在草莓县服务器。</p><p>​    最近看到了一个不错的WP主题，<a href="https://2heng.xin/theme-sakura/">Sakura</a>，感觉不错，加入了聊天群。</p><p>​    遇见一个友善的<a href="https://asuhe.jp/">大佬</a> QQ <a href="https://base64.supfree.net/">Nzk4NDk0ODE1</a>  ，请教了一下，花费14RMB买了一个<a href="https://idc.wiki/">空间</a>。</p><p>  <img src="https://cdn.jsdelivr.net/gh/wsqstar/ResHosting/img/20200212124623.png" class="lazyload" data-srcset="https://cdn.jsdelivr.net/gh/wsqstar/ResHosting/img/20200212124623.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></p><p>  一个月14，感觉比较便宜。</p><h1 id="关于投资"><a href="#关于投资" class="headerlink" title="关于投资"></a>关于投资</h1><p>  跟家里人讨论了KOL以及MCN，准备先入股几个。</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="关于网络"><a href="#关于网络" class="headerlink" title="关于网络"></a>关于网络</h1><p>​    今天开始努力学习了。</p><p>​    看到了一个不错的去中心化讨论社区 <a href="https://m.cmx.im/">https://m.cmx.im/</a> 长毛象。我在草莓县服务器。</p><span id="more"></span> <p>​    最近看到了一个不错的WP主题，<a href="https://2heng.xin/theme-sakura/">Sakura</a>，感觉不错，加入了聊天群。</p><p>​    遇见一个友善的<a href="https://asuhe.jp/">大佬</a> QQ <a href="https://base64.supfree.net/">Nzk4NDk0ODE1</a>  ，请教了一下，花费14RMB买了一个<a href="https://idc.wiki/">空间</a>。</p><p>  <img src="https://cdn.jsdelivr.net/gh/wsqstar/ResHosting/img/20200212124623.png" class="lazyload" data-srcset="https://cdn.jsdelivr.net/gh/wsqstar/ResHosting/img/20200212124623.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></p><p>  一个月14，感觉比较便宜。</p><h1 id="关于投资"><a href="#关于投资" class="headerlink" title="关于投资"></a>关于投资</h1><p>  跟家里人讨论了KOL以及MCN，准备先入股几个。</p>]]></content>
       
       
       
