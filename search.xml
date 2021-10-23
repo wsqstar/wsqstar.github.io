@@ -48,7 +48,7 @@
       <link href="/2021/10/18/%E9%87%8D%E6%96%B0%E5%BC%80%E5%A7%8B/"/>
       <url>/2021/10/18/%E9%87%8D%E6%96%B0%E5%BC%80%E5%A7%8B/</url>
       
-        <content type="html"><![CDATA[<p>即日起，本站恢复更新。<br>但是由于学习与分享并重，所以网站的一些功能并不是多么完善/甚至有缺陷。<br>重在内容哈。</p>]]></content>
+        <content type="html"><![CDATA[<p>即日起，本站恢复更新。</p><span id="more"></span> <p>但是由于学习与分享并重，所以网站的一些功能并不是多么完善/甚至有缺陷。<br>重在内容哈。</p>]]></content>
       
       
       
@@ -113,7 +113,7 @@
       <link href="/2020/02/17/%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E-20200217/"/>
       <url>/2020/02/17/%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E-20200217/</url>
       
-        <content type="html"><![CDATA[<p>[TOC]</p><h2 id="20200217"><a href="#20200217" class="headerlink" title="20200217"></a>20200217</h2><div class="story post-story"><h3 id="情况说明"><a href="#情况说明" class="headerlink" title="情况说明"></a>情况说明</h3><p>毕业季来了。</p><h3 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h3><p>最近会专注毕业设计的编写。<br>看到从自己的主题博客站那里交的朋友走上了正轨，感觉还很开心的。博客站就暂时不发了，使用的虚拟人物，主题还花里胡哨的。主题博客站以后要专注主题，SEO优化等。<br>以后本站只发技术文章、日课。</p></div>]]></content>
+        <content type="html"><![CDATA[<p>[TOC]</p><h2 id="20200217"><a href="#20200217" class="headerlink" title="20200217"></a>20200217</h2><div class="story post-story"><h3 id="情况说明"><a href="#情况说明" class="headerlink" title="情况说明"></a>情况说明</h3><p>毕业季来了。</p><span id="more"></span> <h3 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h3><p>最近会专注毕业设计的编写。<br>看到从自己的主题博客站那里交的朋友走上了正轨，感觉还很开心的。博客站就暂时不发了，使用的虚拟人物，主题还花里胡哨的。主题博客站以后要专注主题，SEO优化等。<br>以后本站只发技术文章、日课。</p></div>]]></content>
       
       
       
@@ -319,7 +319,7 @@
       <link href="/2020/01/15/%E6%97%A5%E8%AF%BE20200115/"/>
       <url>/2020/01/15/%E6%97%A5%E8%AF%BE20200115/</url>
       
-        <content type="html"><![CDATA[<h1 id="小型日记"><a href="#小型日记" class="headerlink" title="小型日记"></a>小型日记</h1><p>今天有如下心得：</p><ol><li>邮寄东西一定要用箱子 面单一定要用胶带粘好</li><li>没有食欲建议食用 美食纪录片</li><li>学习有一大堆工具，重要是坚持。<ol><li>工具列表（可交互）<ol><li><a href="https://github.com/wsqstar/Learn-git">GitHub</a></li><li><a href="https://leetcode-cn.com/explore/">Leetcode</a></li><li><a href="https://xue.cn/">Xue</a></li><li><a href="https://tianchi.aliyun.com/home/">Tianchi</a></li><li><a href="https://notebooks.azure.com/Microsoft/projects/2018-Intro-Python">Azure NoteBook</a> </li></ol></li><li>带学资源<ol><li><a href="https://github.com/Yixiaohan/show-me-the-code">Python</a>  一点Python</li><li><a href="https://tianchi.aliyun.com/competition/entrance/231759/tab/174?spm=5176.12281976.0.0.43983d6cejwfEa">Docker</a></li></ol></li></ol></li><li>目前进行的比赛：<ol><li>毕业设计</li><li><a href="https://tianchi.aliyun.com/competition/entrance/231767/introduction?spm=5176.12281949.1003.3.45c64c2aMcYfDk">2020数字中国创新大赛—应用赛1：建筑智能普查</a> </li></ol></li></ol>]]></content>
+        <content type="html"><![CDATA[<h1 id="小型日记"><a href="#小型日记" class="headerlink" title="小型日记"></a>小型日记</h1><p>今天有如下心得：</p><span id="more"></span> <ol><li>邮寄东西一定要用箱子 面单一定要用胶带粘好</li><li>没有食欲建议食用 美食纪录片</li><li>学习有一大堆工具，重要是坚持。<ol><li>工具列表（可交互）<ol><li><a href="https://github.com/wsqstar/Learn-git">GitHub</a></li><li><a href="https://leetcode-cn.com/explore/">Leetcode</a></li><li><a href="https://xue.cn/">Xue</a></li><li><a href="https://tianchi.aliyun.com/home/">Tianchi</a></li><li><a href="https://notebooks.azure.com/Microsoft/projects/2018-Intro-Python">Azure NoteBook</a> </li></ol></li><li>带学资源<ol><li><a href="https://github.com/Yixiaohan/show-me-the-code">Python</a>  一点Python</li><li><a href="https://tianchi.aliyun.com/competition/entrance/231759/tab/174?spm=5176.12281976.0.0.43983d6cejwfEa">Docker</a></li></ol></li></ol></li><li>目前进行的比赛：<ol><li>毕业设计</li><li><a href="https://tianchi.aliyun.com/competition/entrance/231767/introduction?spm=5176.12281949.1003.3.45c64c2aMcYfDk">2020数字中国创新大赛—应用赛1：建筑智能普查</a> </li></ol></li></ol>]]></content>
       
       
       
@@ -340,7 +340,7 @@
       <link href="/2020/01/09/%E7%9B%AE%E5%89%8D%E7%9A%84%E5%9F%9F%E5%90%8D%E4%BB%A5%E5%8F%8A%E6%9C%8D%E5%8A%A1/"/>
       <url>/2020/01/09/%E7%9B%AE%E5%89%8D%E7%9A%84%E5%9F%9F%E5%90%8D%E4%BB%A5%E5%8F%8A%E6%9C%8D%E5%8A%A1/</url>
       
-        <content type="html"><![CDATA[<h1 id="目前的域名-服务"><a href="#目前的域名-服务" class="headerlink" title="目前的域名+服务"></a>目前的域名+服务</h1><ul><li>blog.1314.io 个人博客</li><li>qtech.top 个人国内网站 备案<ul><li>www. 测试主页</li><li>blog. wordpress博客 使用小白白的模板</li><li>hgt.doc. HGT学习小组的文档 部署在阿里云 OSS上</li><li>things 物料网站 放了一些资源文件</li></ul></li><li>xue.sd.cn <strong>没有备案，只可以用ali dns</strong><ul><li>gitbooks 地大</li></ul></li><li>还剩下几百个域名……</li></ul>]]></content>
+        <content type="html"><![CDATA[<h1 id="目前的域名-服务"><a href="#目前的域名-服务" class="headerlink" title="目前的域名+服务"></a>目前的域名+服务</h1><span id="more"></span> <ul><li>blog.1314.io 个人博客</li><li>qtech.top 个人国内网站 备案<ul><li>www. 测试主页</li><li>blog. wordpress博客 使用小白白的模板</li><li>hgt.doc. HGT学习小组的文档 部署在阿里云 OSS上</li><li>things 物料网站 放了一些资源文件</li></ul></li><li>xue.sd.cn <strong>没有备案，只可以用ali dns</strong><ul><li>gitbooks 地大</li></ul></li><li>还剩下几百个域名……</li></ul>]]></content>
       
       
       
@@ -356,25 +356,6 @@
         <content type="html"><![CDATA[<p>主要的操作有：</p><ul><li>新建文章</li></ul> <figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new [layout] <span class="tag">&lt;<span class="name">title</span>&gt;</span> #新建文章</span><br><span class="line"><span class="comment">&lt;!--例如--&gt;</span></span><br><span class="line">$ hexo new post hello,hexo</span><br></pre></td></tr></table></figure><ul><li>生成加部署</li></ul><figure class="highlight ruby"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="variable">$ </span>hexo d -g</span><br></pre></td></tr></table></figure>]]></content>
       
       
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>hello,test</title>
-      <link href="/2020/01/09/hello-test/"/>
-      <url>/2020/01/09/hello-test/</url>
-      
-        <content type="html"><![CDATA[<h1 id="开始了"><a href="#开始了" class="headerlink" title="开始了"></a>开始了</h1><p>主要的操作有：</p><ul><li><p>新建文章</p><ul><li>```xml<br>$ hexo new [layout] <title> #新建文章<!--例如-->$ hexo new post hello,hexo<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">- 生成加部署</span><br><span class="line"></span><br><span class="line">  - ```ruby</span><br><span class="line">    $ hexo d -g</span><br></pre></td></tr></table></figure></li></ul></li></ul>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 学习 </tag>
-            
-        </tags>
       
     </entry>
     
