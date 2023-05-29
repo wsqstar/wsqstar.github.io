@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: 王大可的博客
+subtitle: '开心就好'
+description: '王大可的博客'
 keywords:
-author: John Doe
+author: Shiqi
 language: en
 timezone: ''
 
@@ -102,4 +102,7 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repository: git@github.com:wsqstar/wsqstar.github.io.git
+  branch: hexo
+
